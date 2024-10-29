@@ -6,7 +6,7 @@ To get insights into the data:
 
 1) [EDA](#eda) was conducted;
 
-2) [Different model](#modelling) were used to predict level of stress as variable dependent on sleep characteristics variables.
+2) [Different models](#modelling) were used to predict level of stress as variable dependent on sleep characteristics variables.
 
 3) [Color Decision Tree](#color-dt) was constructed to better visualize the data in the dataset.
 
@@ -28,7 +28,7 @@ The dataset has 8 predictors (features) and one dependant variable, stress level
 
 <img src="imgs/image.png" alt="layout" width="500"/>
 
-We can see that all the predictors have no outliers and the data can be *very accurately* divided into 4 corresponding layers of stress! *Hmm... Suspicious!* :thinking:
+We can see that all the predictors have no outliers and the data can be *very accurately* divided into 5 corresponding levels of stress! *Hmm... Suspicious!* :thinking:
 
 <img src="imgs/boxplot.png" alt="boxplots" width="500"/>
 
