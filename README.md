@@ -15,8 +15,11 @@ To get insights into the data:
 Python libraries used for data visualisation and analysis:
 
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+for fitting KNeighbors Classifier Algorithm, Logistic Regression and other models
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+for modelling data
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="160"/>
+fir visualizing data
 
 All the graphs used below are reproducable with the code in the dedicated notebooks.
 
